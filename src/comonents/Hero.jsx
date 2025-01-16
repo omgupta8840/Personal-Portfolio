@@ -1,6 +1,6 @@
 import React from 'react'
 import {BsFacebook,BsLinkedin,BsGithub} from 'react-icons/bs'
-import HeroPic from '../assets/om.jpg'
+import HeroPic from '../assets/Om.jpg'
 
 function Hero() {
   return (

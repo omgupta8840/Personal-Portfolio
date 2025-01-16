@@ -1,5 +1,5 @@
 import React from 'react'
-import weather from '../assets/weather.jpg'
+import weatherImage from '../assets/Weather.jpg';
 import FoodRecpie from '../assets/Food Recpie.jpg'
 
 function Project() {
@@ -22,7 +22,7 @@ function Project() {
                 </p>
               </div>
               <div className='md:shrink-0 p-5'>
-                <img src={weather} alt="weather app" width={150} height={150} />
+                <img src={weatherImage} alt="weather app" width={150} height={150} />
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@ function Project() {
                 </p>
               </div>
               <div className='md:shrink-0 p-5'>
-                <img src={weather} alt="weather app" width={150} height={150} />
+                <img src={weatherImage} alt="weather app" width={150} height={150} />
               </div>
             </div>
           </div>

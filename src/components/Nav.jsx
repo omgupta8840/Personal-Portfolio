@@ -19,7 +19,7 @@ function Nav() {
     <>
       <div className='flex itms-center justify-between p-10 lg:flex-row'>
         <div>
-          <Link to='/' className='text-white fonst-mono text-3xl tracking-wider flex items-center'> <CgNametag />AUCODE</Link>
+          <Link to='/' className='text-white fonst-mono text-3xl tracking-wider flex items-center'> <CgNametag />PORT <span>folio</span> </Link>
         </div>
         <div className='space-x-4 '>
           <div className='ssm:hidden lg:block space-x-2'>
